@@ -1,0 +1,33 @@
+_repo: La-fille-du-pirate_18403
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Chevalier, H. Emile (Henri Emile)
+    aliases:
+    - Chevalier, Émile
+    - Chevalier, Henri Emile
+    - Chevalier, H. Émile (Henri Émile)
+    birthdate: 1828
+    deathdate: 1879
+    gutenberg_agent_id: '7724'
+    url: http://www.gutenberg.org/2009/agents/7724
+description: ''
+gutenberg_bookshelf:
+- Pirates, Buccaneers, Corsairs, etc.
+- FR Littérature
+gutenberg_issued: '2006-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18403'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PQ'
+title: La fille du pirate
+url: http://www.gutenberg.org/ebooks/18403
